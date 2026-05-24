@@ -13,6 +13,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Clone GFG Repo
+        run: |
+          git clone https://github.com/Student-Pavan/GeeksForGeeks_DSA.git
+
+      - name: Clone DSA Repo
+        run: |
+          git clone https://github.com/Student-Pavan/DSA.git
+
       - name: Count Problems
         run: |
           GFG_COUNT=$(find GeeksForGeeks_DSA -type d | wc -l)
@@ -26,9 +34,9 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/<!--GFG_COUNT-->.*<!--\/GFG_COUNT-->/<!--GFG_COUNT-->${GFG_COUNT}<!--\/GFG_COUNT-->/g" README.md
+          sed -i "s|GeeksForGeeks-[0-9]*_Problems|GeeksForGeeks-${GFG_COUNT}_Problems|g" README.md
 
-          sed -i "s/<!--LC_COUNT-->.*<!--\/LC_COUNT-->/<!--LC_COUNT-->${LC_COUNT}<!--\/LC_COUNT-->/g" README.md
+          sed -i "s|LeetCode-[0-9]*_Problems|LeetCode-${LC_COUNT}_Problems|g" README.md
 
       - name: Commit Changes
         run: |
@@ -37,6 +45,6 @@ jobs:
 
           git add README.md
 
-          git diff --quiet && git diff --staged --quiet || git commit -m "Updated problem counts"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Updated coding profile counts"
 
           git push
