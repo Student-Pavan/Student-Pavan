@@ -1,0 +1,42 @@
+name: Update Problem Counts
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-counts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Count Problems
+        run: |
+          GFG_COUNT=$(find GeeksForGeeks_DSA -type d | wc -l)
+          GFG_COUNT=$((GFG_COUNT - 1))
+
+          LC_COUNT=$(find DSA -type d | wc -l)
+          LC_COUNT=$((LC_COUNT - 1))
+
+          echo "GFG_COUNT=$GFG_COUNT" >> $GITHUB_ENV
+          echo "LC_COUNT=$LC_COUNT" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s/<!--GFG_COUNT-->.*<!--\/GFG_COUNT-->/<!--GFG_COUNT-->${GFG_COUNT}<!--\/GFG_COUNT-->/g" README.md
+
+          sed -i "s/<!--LC_COUNT-->.*<!--\/LC_COUNT-->/<!--LC_COUNT-->${LC_COUNT}<!--\/LC_COUNT-->/g" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add README.md
+
+          git diff --quiet && git diff --staged --quiet || git commit -m "Updated problem counts"
+
+          git push
