@@ -115,7 +115,8 @@ while(alive){
 ## 🛠️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,intellij,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=postman,docker" />
 </p>
 
 ---
