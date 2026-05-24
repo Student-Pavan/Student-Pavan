@@ -68,7 +68,7 @@ while(alive){
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:pavankare614@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
@@ -90,7 +90,7 @@ while(alive){
 
 ## 👨‍💻 Languages
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,javascript" />
 </p>
 
@@ -98,7 +98,7 @@ while(alive){
 
 ## 🌐 Frontend Development
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
@@ -106,7 +106,7 @@ while(alive){
 
 ## ⚙️ Backend & Database
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,supabase" />
 </p>
 
@@ -114,17 +114,15 @@ while(alive){
 
 ## 🛠️ Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postman,docker" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
 </p>
 
 ---
 
 ## ⚡ Automation Stack
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/n8n-Workflow_Automation-red?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
@@ -134,11 +132,12 @@ while(alive){
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/GeeksForGeeks-<!--GFG_COUNT-->0<!--/GFG_COUNT-->_Problems-brightgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GeeksForGeeks-0_Problems-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="gfg"/>
 
-<img src="https://img.shields.io/badge/LeetCode-<!--LC_COUNT-->0<!--/LC_COUNT-->_Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-0_Problems-orange?style=for-the-badge&logo=leetcode" alt="leetcode"/>
 
 </p>
+
 ---
 
 # 📊 GitHub Analytics
