@@ -68,7 +68,7 @@ while(alive){
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="mailto:pavankare614@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
@@ -90,7 +90,7 @@ while(alive){
 
 ## 👨‍💻 Languages
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,javascript" />
 </p>
 
@@ -98,7 +98,7 @@ while(alive){
 
 ## 🌐 Frontend Development
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
@@ -106,7 +106,7 @@ while(alive){
 
 ## ⚙️ Backend & Database
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,supabase,firebase" />
 </p>
 
@@ -114,7 +114,7 @@ while(alive){
 
 ## 🛠️ Tools & Platforms
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,intellij,postman,docker" />
 </p>
 
@@ -122,7 +122,7 @@ while(alive){
 
 ## ⚡ Automation Stack
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/n8n-Workflow_Automation-red?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
@@ -130,7 +130,7 @@ while(alive){
 
 # 📈 Coding Profiles
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/LeetCode-50%2B_Problems-orange?style=for-the-badge&logo=leetcode"/>
 
