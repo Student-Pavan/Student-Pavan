@@ -132,14 +132,13 @@ while(alive){
 
 # 📈 Coding Profiles
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-50%2B_Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/GeeksForGeeks-<!--GFG_COUNT-->0<!--/GFG_COUNT-->_Problems-brightgreen?style=for-the-badge&logo=geeksforgeeks"/>
 
-<img src="https://img.shields.io/badge/HackerRank-30%2B_Problems-green?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/LeetCode-<!--LC_COUNT-->0<!--/LC_COUNT-->_Problems-orange?style=for-the-badge&logo=leetcode"/>
 
 </p>
-
 ---
 
 # 📊 GitHub Analytics
