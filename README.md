@@ -107,7 +107,7 @@ while(alive){
 ## ⚙️ Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,supabase" />
 </p>
 
 ---
@@ -115,7 +115,8 @@ while(alive){
 ## 🛠️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=postman,docker" />
 </p>
 
