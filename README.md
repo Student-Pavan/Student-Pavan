@@ -132,7 +132,7 @@ while(alive){
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/GeeksForGeeks-34_Problems-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="gfg"/>
+<img src="https://img.shields.io/badge/GeeksForGeeks-35_Problems-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="gfg"/>
 
 <img src="https://img.shields.io/badge/LeetCode-114_Problems-orange?style=for-the-badge&logo=leetcode" alt="leetcode"/>
 
