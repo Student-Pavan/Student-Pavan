@@ -131,8 +131,8 @@ while(alive){
 # 📈 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/premshaw11">
-<img src="https://leetcard.jacoblin.cool/premshaw11?theme=dark&font=Karma&ext=contest" />
+<a href="https://leetcode.com/u/Currently-full-Pavan/">
+<img src="https://leetcard.jacoblin.cool/Currently-full-Pavan?theme=dark&font=Karma&ext=contest" />
 </a>
 </p>
 
