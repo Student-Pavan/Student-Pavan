@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer • Java DSA Enthusiast • AI Automation Builder</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Java+DSA+Learner;AI+Automation+Builder;n8n+Workflow+Developer;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Java+DSA+Learner;AI+Automation+Builder;n8n+Workflow+Developer;Open+Source+Contributor" />
 </p>
 
 ---
