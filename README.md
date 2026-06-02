@@ -226,3 +226,127 @@ Building:
 <h2 align="center">
 ⚡ Code • Build • Automate • Repeat ⚡
 </h2>
+# 📈 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Student-Pavan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Pavan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Student-Pavan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Student-Pavan&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-Pavan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Detailed GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Student-Pavan&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Student-Pavan&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Student-Pavan&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Student-Pavan&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Student-Pavan&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project                 | 📖 Description                                      |
+| -------------------------- | --------------------------------------------------- |
+| 🤖 JARVIS AI Assistant     | Voice-controlled AI assistant with smart automation |
+| ⚡ n8n Automation Workflows | AI-integrated automation systems and pipelines      |
+| 🌿 Plant Disease Detector  | AI-powered crop disease detection platform          |
+| 🧠 Hands-On LLM Projects   | Experiments with LLMs and AI tools                  |
+| 🌐 Web API Projects        | Backend APIs and full stack applications            |
+
+---
+
+# 🔥 Current Focus
+
+```yaml
+Learning:
+  - Advanced Java DSA
+  - Full Stack Development
+  - Backend Engineering
+  - Workflow Automation
+
+Building:
+  - AI Automation Pipelines
+  - JARVIS AI Assistant
+  - Full Stack Applications
+  - n8n Workflows
+```
+
+---
+
+# 💻 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Master Full Stack Development
+* ⚡ Become Strong in DSA
+* 🤖 Build Advanced AI Systems
+* 🌍 Contribute to Open Source
+* 🔥 Build Production-level Projects
+
