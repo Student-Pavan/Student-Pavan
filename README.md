@@ -144,7 +144,6 @@
 
 ---
 
-# 📊 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-Pavan&theme=github-dark&hide_border=true"/>
@@ -152,7 +151,6 @@
 
 ---
 
-# 💻 LeetCode
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Currently-full-Pavan?theme=dark&font=baloo&ext=contest"/>
