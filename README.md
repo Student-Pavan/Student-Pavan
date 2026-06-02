@@ -1,232 +1,160 @@
-<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer • Java DSA Enthusiast • Automation Builder
-</h3>
+<h1 align="center">Hey there, I'm Pavan Kumar 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Java+DSA+Learner;AI+Automation+Builder;n8n+Workflow+Developer;Open+Source+Enthusiast;Building+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Java+DSA+Enthusiast;AI+Automation+Builder;n8n+Workflow+Developer;Open+Source+Contributor" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Student-Pavan&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Student-Pavan?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Student-Pavan?style=for-the-badge&logo=github" />
+  <a href="mailto:pavankare614@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pavan-kumar-41042b2b3/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Student-Pavan">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Currently-full-Pavan/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+<p align="center">
+<i>"Building the future, one commit at a time."</i>
+</p>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+---
 
-🎓 B.Tech CSE (AI & ML) Student  
+# 🧑‍💻 About Me
+
+🎓 B.Tech CSE (AI & ML) Student
+
 🏫 Institute of Aeronautical Engineering, Hyderabad
 
----
+💻 Full Stack Developer passionate about building scalable applications
 
-### 🚀 What I Do
+⚡ Automation Builder using n8n & AI workflows
 
-- 💻 Full Stack Web Development
-- ⚡ Workflow Automation using n8n
-- 🧠 Java DSA Problem Solving
-- 🤖 AI-powered Applications
-- 🔥 Open Source Contributions
+🤖 Exploring LLMs, AI Agents and Intelligent Systems
+
+🔥 Open Source Contributor
 
 ---
 
-### 🛠️ Currently Building
+# 🚀 Current Focus
 
-- 🤖 JARVIS AI Virtual Assistant
-- ⚡ AI Automation Workflows
-- 🌐 Full Stack Projects
-- 🧩 Backend Systems & APIs
-
----
-
-### 🎯 Goals
-
-- Become an AI + Full Stack Engineer
-- Build scalable automation systems
-- Contribute to impactful open-source projects
-
----
-
-### ⚡ Fun Fact
-
-```yaml
-while(alive){
-   eat();
-   code();
-   automate();
-   sleep();
-   repeat();
-}
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="mailto:pavankare614@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-<a href="https://github.com/Student-Pavan">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pavan-kumar-41042b2b3/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-</p>
+- Advanced Java DSA
+- Full Stack Development
+- AI Automation Systems
+- Backend Engineering
+- Open Source Contributions
 
 ---
 
 # ⚒️ Tech Stack
 
-## 👨‍💻 Languages
+### Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,javascript" />
-</p>
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
----
+### Frontend
 
-## 🌐 Frontend Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
-</p>
+### Backend
 
----
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-## ⚙️ Backend & Database
+### Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,supabase" />
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-## ⚡ Automation Stack
+# 📊 GitHub Dashboard
 
-<p align="left">
-<img src="https://img.shields.io/badge/n8n-Workflow_Automation-red?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Student-Pavan&theme=github_dark"/>
 
----
+<br>
 
-# 📈 Coding Profiles
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Student-Pavan&theme=github_dark"/>
 
-<p align="center">
-<a href="https://leetcode.com/u/Currently-full-Pavan/">
-<img src="https://leetcard.jacoblin.cool/Currently-full-Pavan?theme=dark&font=Karma&ext=contest" />
-</a>
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Student-Pavan&theme=github_dark"/>
 
----
+<br>
 
-# 📊 GitHub Analytics
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Student-Pavan&theme=github_dark"/>
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Student-Pavan&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Pavan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Student-Pavan&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Student-Pavan&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Student-Pavan&theme=github_dark&utcOffset=5.5"/>
 
 ---
 
 # 📈 Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-Pavan&theme=github-dark&hide_border=true"/>
+
+---
+
+# 🔥 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-Pavan&theme=tokyo-night&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Student-Pavan&show_icons=true&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Pavan&layout=compact&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Student-Pavan&theme=github-dark"/>
 </p>
 
 ---
 
-# 📊 Detailed GitHub Statistics
+# 🏆 LeetCode
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Student-Pavan&theme=tokyonight"/>
+<img src="https://leetcard.jacoblin.cool/Currently-full-Pavan?theme=dark&font=baloo&ext=contest"/>
 </p>
 
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Student-Pavan&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Student-Pavan&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Student-Pavan&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Student-Pavan&theme=tokyonight&utcOffset=5.5"/>
-</p>
+---
 
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project                 | 📖 Description                                      |
-| -------------------------- | --------------------------------------------------- |
-| 🤖 JARVIS AI Assistant     | Voice-controlled AI assistant with smart automation |
-| ⚡ n8n Automation Workflows | AI-integrated automation systems and pipelines      |
-| 🌿 Plant Disease Detector  | AI-powered crop disease detection platform          |
-| 🧠 Hands-On LLM Projects   | Experiments with LLMs and AI tools                  |
-| 🌐 Web API Projects        | Backend APIs and full stack applications            |
+| Project | Description |
+|----------|------------|
+| 🤖 JARVIS AI | Voice-controlled AI assistant |
+| 🔐 Bluetooth Security App | Anti-theft Android application |
+| ⚡ AI Automation Workflows | n8n based intelligent automation |
+| 🌐 Full Stack Applications | MERN & Java Projects |
+| 🧠 DSA Journey | Competitive programming & problem solving |
 
 ---
-
-# 🔥 Current Focus
-
-```yaml
-Learning:
-  - Advanced Java DSA
-  - Full Stack Development
-  - Backend Engineering
-  - Workflow Automation
-
-Building:
-  - AI Automation Pipelines
-  - JARVIS AI Assistant
-  - Full Stack Applications
-  - n8n Workflows
-```
-
----
-
-# 💻 Developer Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+💙 Thanks for visiting my profile!
 </p>
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Master Full Stack Development
-* ⚡ Become Strong in DSA
-* 🤖 Build Advanced AI Systems
-* 🌍 Contribute to Open Source
-* 🔥 Build Production-level Projects
