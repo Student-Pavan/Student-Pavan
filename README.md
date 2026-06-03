@@ -28,13 +28,7 @@
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_ID">
-<img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge"/>
-</a>
 
-<a href="https://codeforces.com/profile/YOUR_ID">
-<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge"/>
-</a>
 
 </p>
 
