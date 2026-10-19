@@ -139,19 +139,6 @@
 ---
 
 
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Student-Pavan&theme=github-dark"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
-
----
-
-
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Student-Pavan?theme=dark&font=baloo&ext=contest"/>
 </p>
