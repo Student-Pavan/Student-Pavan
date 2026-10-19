@@ -147,7 +147,7 @@
 
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Currently-full-Pavan?theme=dark&font=baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Student-Pavan?theme=dark&font=baloo&ext=contest"/>
 </p>
 
 ---
